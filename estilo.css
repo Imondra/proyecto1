@@ -1,0 +1,12 @@
+.progreso {
+  width: 5%;
+  float:left;
+}
+.principal {
+  width: 70%;
+  float: left;
+}
+.miniaturas {
+  width: 25%;
+  float:right;
+}

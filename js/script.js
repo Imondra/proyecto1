@@ -1,0 +1,3 @@
+var foto;
+
+function fotoSeleccionada ();
